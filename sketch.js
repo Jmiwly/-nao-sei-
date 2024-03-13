@@ -3,7 +3,7 @@ let r, g, b;
 function setup() {
   createCanvas(displayWidth, displayHeight);
   r = random(255, 255);
-  g = random(255, 200);
+  g = random(255, 255);
   b = random(255, 255);
 }
 
